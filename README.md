@@ -10,16 +10,16 @@ This is a web system with an administrative interface.
 	</tr>
 	<tr>
 		<td>
-      <br>
-			<img width="1080" src="">
+      		<br>
+			<img width="1080" src="https://user-images.githubusercontent.com/98855318/153074519-9959e4e5-b38d-42c7-bcc6-da785588b64d.png">
 		</td>   
 	</tr>
-  <tr>
-   <td>
-      <br>
-			<img width="1080" src="">
+  	<tr>
+  		<td>
+      		<br>
+			<img width="1080" src="https://user-images.githubusercontent.com/98855318/153074524-606f4da7-f856-4254-a948-c91c52ecacd8.png">
 		</td>   
-  </tr>   
+  	</tr>   
 </table>
 
 ## Getting started
